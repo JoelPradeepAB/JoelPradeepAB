@@ -1,5 +1,7 @@
 # Hi there, I'm [Joel Pradeep A B]! 👋
 
+![Profile under development...]
+
 ![Banner comming soon...](your_banner_image_url_here)
 
 ## About Me 🚀
