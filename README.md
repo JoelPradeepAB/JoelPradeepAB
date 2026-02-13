@@ -19,6 +19,8 @@ I'm a passionate **[Software Engineer]** with experience in **[Java Full Stack W
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/-Java-61DAFB?style=flat-square&logo=java&logoColor=black)
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-339933?style=flat-square&logo=springboot&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-F7DF1E?style=flat-square&logo=angular&logoColor=black)
+![AWS](https://img.shields.io/badge/-AWS-1572B6?style=flat-square&logo=aws&logoColor=white)
 
 
 
