@@ -1,28 +1,31 @@
 # Hi there, I'm [Joel Pradeep A B]! 👋
 
-![Profile under development...](your_banner_image_url_here)
+![Profile --> under development...](your_banner_image_url_here)
 
-![Banner comming soon...](your_banner_image_url_here)
+![Banner uploading soon...](your_banner_image_url_here)
 
 ## About Me 🚀
 
 I'm a passionate **[Software Engineer]** with experience in **[Java Full Stack Web Development]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: **[Java,SpringBoot,Microservices,DevOps,AWS]**
+- 🌱 Currently learning: **[Java,SpringBoot,Microservices,DevOps,AWS,Angular]**
 - 🔭 Working on: **[5 Java-Spring Boot Based Projects]**
 - 🌍 Languages: **[Java, C, Python]**
 - 📫 How to reach me: **[linkedin.com/joelpradeepab]**
+- 📫 How to reach me: **[github.com/joelpradeepab]**
 - ⚡ Fun fact: **["I still watch cartoons, from when I was a kid".]**
 
 ## My Skills 🧠
 
+![Java](https://img.shields.io/badge/-Java-61DAFB?style=flat-square&logo=java&logoColor=black)
+![SpringBoot](https://img.shields.io/badge/-SpringBoot-339933?style=flat-square&logo=springboot&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/-Java-61DAFB?style=flat-square&logo=java&logoColor=black)
-![SpringBoot](https://img.shields.io/badge/-SpringBoot-339933?style=flat-square&logo=springboot&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-F7DF1E?style=flat-square&logo=angular&logoColor=black)
+![DevOps](https://img.shields.io/badge/-DevOps-E34F26?style=flat-square&logo=devops5&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-1572B6?style=flat-square&logo=aws&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-F7DF1E?style=flat-square&logo=angular&logoColor=black)
+
 
 
 
