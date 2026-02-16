@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b><span style="color:#FFD700;">JoelPradeepAB</span></b>
+  <b><span style="color:#EFBF04;">JOEL PRADEEP A B</span></b>
 </h1>
 
 <h3 align="center">Java Full Stack Developer | Spring Boot | React | Angular | Microservices</h3>
