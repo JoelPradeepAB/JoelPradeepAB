@@ -1,6 +1,6 @@
 🚀 Java Backend & Cloud Engineering Portfolio
 
-<div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=2800&color=00FFA6&center=true&vCenter=true&width=900&lines=Java+Backend+Engineer;Spring+Boot+Microservices+%7C+Cloud+Ready;Scalable+APIs+%7C+Fault+Tolerant+Systems" /><img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&row=1&column=7" /><img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" /></div>
+<div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=2800&color=00FFA6&center=true&vCenter=true&width=900&lines=Java+Backend+Engineer;Spring+Boot+Microservices+%7C+Cloud+Ready;Scalable+APIs+%7C+Fault+Tolerant+Systems" /><img src="https://github-profile-trophy.vercel.app/?username=JoelPradeepAB&theme=algolia&no-frame=true&row=1&column=7" /><img src="https://komarev.com/ghpvc/?username=JoelPradeepAB&label=Profile%20Views&color=0e75b6&style=for-the-badge" /></div>
 ---
 
 🧬 Contribution Snake
@@ -15,10 +15,11 @@
 📊 Engineering Metrics
 
 <div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</div><img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=JoelPradeepAB&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoelPradeepAB&layout=compact&theme=tokyonight&hide_border=true" />
+</div><img src="https://github-readme-activity-graph.vercel.app/graph?username=JoelPradeepAB&theme=github-compact&hide_border=true" />
 ---
+
 
 🧩 Technology Stack (3D Icons)
 
@@ -27,7 +28,10 @@
 </div>
 ---
 
-🏗️ Core Backend Projects
+
+
+##🏗️ Core Backend Projects
+
 
 🌐 Cloud‑Ready Food Ordering Platform (Microservices)
 
@@ -153,11 +157,11 @@ Left Vertical Tech Beam
 
 📫 Connect
 
-LinkedIn: https://linkedin.com/in/YOUR_LINK
+LinkedIn: https://linkedin.com/in/JoelPradeepAB 
 
-Email: yourmail@example.com
+Email: *****@example.com
 
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: https://github.com/JoelPradeepAB 
 
 
 
