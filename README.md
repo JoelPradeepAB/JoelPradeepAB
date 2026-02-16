@@ -1,5 +1,9 @@
 🚀 Java Backend & Cloud Engineering Portfolio
 
+<h1 align="center">
+  <b><span style="color:#FFD700;">JOEL PRADEEP A B</span></b>
+</h1>
+
 <div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=2800&color=00FFA6&center=true&vCenter=true&width=900&lines=Java+Backend+Engineer;Spring+Boot+Microservices+%7C+Cloud+Ready;Scalable+APIs+%7C+Fault+Tolerant+Systems" /><img src="https://github-profile-trophy.vercel.app/?username=JoelPradeepAB&theme=algolia&no-frame=true&row=1&column=7" /><img src="https://komarev.com/ghpvc/?username=JoelPradeepAB&label=Profile%20Views&color=0e75b6&style=for-the-badge" /></div>
 ---
 
