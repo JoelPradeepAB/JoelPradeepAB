@@ -1,6 +1,6 @@
-<p align="center">
-color=FFD700&height=90&section=header&text=JOEL PRADEEP A B&fontSize=40&fontColor=000000"/>
-</p>
+<h1 align="center">
+  <b><span style="color:#FFD700;">JOEL PRADEEP A B</span></b>
+</h1>
 
 <h3 align="center">Java Full Stack Developer | Spring Boot | React | Angular | Microservices</h3>
 
