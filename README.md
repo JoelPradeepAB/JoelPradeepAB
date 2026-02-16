@@ -1,23 +1,21 @@
-<h1 align="center">
-  <b><span style="color:#FFD700;">JOEL PRADEEP A B</span></b>
-</h1>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFD700&height=90&section=header&text=JOEL%20PRADEEP A B&fontSize=40&fontColor=000000"/>
+</p>
 
 <h3 align="center">Java Full Stack Developer | Spring Boot | React | Angular | Microservices</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Java+Backend+Developer;Spring+Boot+REST+APIs;React+and+Angular+Frontend;Full+Stack+Engineer;Microservices+Architecture&center=true&width=550&height=45&color=FFD700&vCenter=true&pause=1000&size=25" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Java+Backend+Developer;Spring+Boot+REST+APIs;React+and+Angular+Frontend;Full+Stack+Engineer;Microservices+Architecture"/>
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,100:007CF0&height=120&section=header"/>
 
 ---
 
 ## 🧠 About Me
-- 💻 Passionate Java Full Stack Developer
-- 🔧 Java • Spring Boot • SQL • REST APIs
-- 🌐 React & Angular UI Integration
-- 🧩 Building scalable backend systems
-- 📚 Currently learning Data Structures & System Design
+- Passionate Java Full Stack Developer
+- Java • Spring Boot • SQL • REST APIs
+- React & Angular UI Integration
+- Building scalable backend systems
+- Learning Data Structures & System Design
 
 ---
 
@@ -30,7 +28,7 @@
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
 
@@ -41,77 +39,59 @@
 
 ---
 
-## 📊 Skill Chart
+## 📊 Skills Radar Chart
 
 <p align="center">
-<img src="https://quickchart.io/chart?c={
-type:'radar',
-data:{
-labels:['Java','Spring Boot','SQL','React','Angular','Microservices','REST API'],
-datasets:[{
-label:'Skill Level',
-data:[90,80,75,70,65,60,85]
-}]
-}
-" width="520"/>
+<img src="https://quickchart.io/chart?width=500&height=300&c=%7Btype%3A%27radar%27%2Cdata%3A%7Blabels%3A%5B%27Java%27%2C%27Spring%20Boot%27%2C%27SQL%27%2C%27React%27%2C%27Angular%27%2C%27Microservices%27%2C%27REST%20API%27%5D%2Cdatasets%3A%5B%7Blabel%3A%27Skills%27%2Cdata%3A%5B90%2C80%2C75%2C70%2C65%2C60%2C85%5D%7D%5D%7D%7D"/>
 </p>
 
 ---
 
 ## 🏗 Featured Projects
 
-### 🧩 TaskHub – Full Stack Task Manager
+### All projects are under development and will be updated soon...
+
+### TaskHub – Full Stack Task Manager
 Spring Boot + React + Angular + MySQL + Authentication  
-🔗 https://github.com/under development.../taskhub
+https://github.com/JoelPradeepAB/taskhub
 
-### 📚 Library Management System
+### Library Management System
 Java + JDBC + MySQL  
-🔗 https://github.com/underdevelopment.../library-system
+https://github.com/JoelPradeepAB/library-system
 
-### 🏦 Banking REST API
+### Banking REST API
 Spring Boot REST API  
-🔗 https://github.com/underdevelopment.../banking-api
+https://github.com/JoelPradeepAB/banking-api
 
-### 🏨 Hotel Booking System
+### Hotel Booking System
 Spring Boot + React + Angular  
-🔗 https://github.com/underdevelopment.../hotel-booking
+https://github.com/JoelPradeepAB/hotel-booking
 
-### 🏢 Employee Microservices
+### Employee Microservices
 Spring Cloud Microservices Architecture  
-🔗 https://github.com/underdevelopment.../employee-microservices
+https://github.com/JoelPradeepAB/employee-microservices
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=JoelPradeepAB&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoelPradeepAB&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=JoelPradeepAB&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoelPradeep&layout=compact&theme=tokyonight&hide_border=true"/>
 <img src="https://streak-stats.demolab.com?user=JoelPradeepAB&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 ---
 
-## 📊 Contribution Activity Graph
+## 📊 Contribution Graph
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoelPradeepAB&theme=tokyo-night&hide_border=true&area=true"/>
 </p>
 
 ---
 
-## 🐍 Contribution Snake
-<p align="center">
-<img src="https://raw.githubusercontent.com/JoelPradeepAB/JoelPradeepAB/output/github-contribution-grid-snake.svg"/>
-</p>
+## 🐍 Contribution Snake (Enable GitHub Action)
 
----
+After pushing README, create:
 
-## 📫 Contact
-- LinkedIn: https://linkedin.com/in/JoelPradeepAB 
-- Email: *****@gmail.com
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007CF0,100:FFD700&height=120&section=footer"/>
+.github/workflows/snake.yml
