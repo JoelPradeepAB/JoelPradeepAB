@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FFD700&height=90&section=header&text=JOEL PRADEEP A B&fontSize=40&fontColor=000000"/>
+color=FFD700&height=90&section=header&text=JOEL PRADEEP A B&fontSize=40&fontColor=000000"/>
 </p>
 
 <h3 align="center">Java Full Stack Developer | Spring Boot | React | Angular | Microservices</h3>
