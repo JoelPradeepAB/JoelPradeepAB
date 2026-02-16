@@ -1,91 +1,166 @@
-<h1 align="center">
-  <b><span style="color:#FFD700;">JOEL PRADEEP A B</span></b>
-</h1>
+🚀 Java Backend & Cloud Engineering Portfolio
 
-<h3 align="center">Java Full Stack Developer | Spring Boot | React | Angular | Microservices</h3>
+<div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=2800&color=00FFA6&center=true&vCenter=true&width=900&lines=Java+Backend+Engineer;Spring+Boot+Microservices+%7C+Cloud+Ready;Scalable+APIs+%7C+Fault+Tolerant+Systems" /><img src="https://github-profile-trophy.vercel.app/?username=JoelPradeepAB&theme=matrix&no-frame=true&row=1&column=7" /><img src="https://komarev.com/ghpvc/?username=JoelPradeepAB&label=Profile+Views&color=00ffaa&style=for-the-badge" /></div>
+---
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Java+Backend+Developer;Spring+Boot+REST+APIs;React+and+Angular+Frontend;Full+Stack+Engineer;Microservices+Architecture"/>
-</p>
+🧬 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="snake" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</picture>
+---
+
+📊 Engineering Metrics
+
+<div align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=JoelPradeepAB&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoelPradeepAB&layout=compact&theme=tokyonight&hide_border=true" />
+</div><img src="https://github-readme-activity-graph.vercel.app/graph?username=JoelPradeepAB&theme=react-dark&hide_border=true" />
+---
+
+🧩 Technology Stack (3D Icons)
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,postgres,redis,docker,kubernetes,linux,git,github,maven,gradle,aws,nginx,postman&perline=8" />
+</div>
+---
+
+🏗️ Core Backend Projects
+
+🌐 Cloud‑Ready Food Ordering Platform (Microservices)
+
+Stack: Spring Boot, Gateway, JWT, Eureka, Feign, Resilience4J
+
+Centralized Authentication Gateway
+
+Service Discovery & Dynamic Routing
+
+Fault Tolerant Order Processing
+
+Inter‑Service Communication
+
+
 
 ---
 
-## 🧠 About Me
-- Passionate Java Full Stack Developer
-- Java • Spring Boot • SQL • REST APIs
-- React & Angular UI Integration
-- Building scalable backend systems
-- Learning Data Structures & System Design
+🔗 Distributed URL Shortener
+
+Stack: Spring Boot, JPA, Base62 Encoding
+
+Collision‑free Short Links
+
+Click Analytics Tracking
+
+High Performance Lookup Design
+
+
 
 ---
 
-## 🛠 Tech Stack
+📈 Automated Stock Price Tracker
 
-### Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot)
-![REST](https://img.shields.io/badge/REST-API-green?style=for-the-badge)
+Stack: Scheduler, External APIs, Database Polling
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+Periodic Background Data Ingestion
 
-### Database & Tools
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)
+Time‑Series Storage
+
+REST Data Exposure
+
+
 
 ---
 
-## 📊 Skills Radar Chart
+💬 Real‑Time Chat System
 
-<p align="center">
-<img src="https://quickchart.io/chart?width=500&height=300&c=%7Btype%3A%27radar%27%2Cdata%3A%7Blabels%3A%5B%27Java%27%2C%27Spring%20Boot%27%2C%27SQL%27%2C%27React%27%2C%27Angular%27%2C%27Microservices%27%2C%27REST%20API%27%5D%2Cdatasets%3A%5B%7Blabel%3A%27Skills%27%2Cdata%3A%5B90%2C80%2C75%2C70%2C65%2C60%2C85%5D%7D%5D%7D%7D"/>
-</p>
+Stack: WebSocket, STOMP Messaging
 
----
+Live Message Broadcasting
 
-## 🏗 Featured Projects
+Multi‑User Room Communication
 
-### All projects are under development and will be updated soon...
+Event Driven Messaging Model
 
-### TaskHub – Full Stack Task Manager
-Spring Boot + React + Angular + MySQL + Authentication  
-https://github.com/JoelPradeepAB/taskhub
 
-### Library Management System
-Java + JDBC + MySQL  
-https://github.com/JoelPradeepAB/library-system
-
-### Banking REST API
-Spring Boot REST API  
-https://github.com/JoelPradeepAB/banking-api
-
-### Hotel Booking System
-Spring Boot + React + Angular  
-https://github.com/JoelPradeepAB/hotel-booking
-
-### Employee Microservices
-Spring Cloud Microservices Architecture  
-https://github.com/JoelPradeepAB/employee-microservices
 
 ---
 
-## 📈 GitHub Stats
+☁️ File Storage Service
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=JoelPradeepAB&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoelPradeep&layout=compact&theme=tokyonight&hide_border=true"/>
-<img src="https://streak-stats.demolab.com?user=JoelPradeepAB&theme=tokyonight&hide_border=true"/>
-</p>
+Stack: Multipart Uploads, Metadata Persistence
+
+Upload & Download API
+
+Cloud Migration Ready Design
+
+
+
+---
+
+📬 Async Email Notification Queue
+
+Stack: Spring Async, Background Processing
+
+Non‑Blocking User Operations
+
+Event‑Driven Notifications
+
+
 
 ---
 
-## 📊 Contribution Graph
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JoelPradeepAB&theme=tokyo-night&hide_border=true&area=true"/>
-</p>
+⚙️ Engineering Principles
+
+Clean Architecture
+Layered Design
+Stateless Authentication
+Fault Tolerance
+Horizontal Scalability
+Idempotent APIs
+Separation of Concerns
+
 
 ---
+
+🧠 Edge Visual Effects
+
+Left Vertical Tech Beam
+
+<svg width="6" height="400" viewBox="0 0 6 400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#00ffd0" stop-opacity="0.7" />
+      <stop offset="100%" stop-color="#0077ff" stop-opacity="0.7" />
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="6" height="400" fill="url(#grad)">
+    <animate attributeName="y" values="-400;0;400" dur="6s" repeatCount="indefinite" />
+  </rect>
+</svg>Right Falling Code Rain (adjust opacity: 0.1 - 0.5)
+
+<svg width="260" height="320" xmlns="http://www.w3.org/2000/svg">
+  <g fill="#00ffa6" fill-opacity="0.25" font-family="monospace" font-size="14">
+    <text x="10" y="10"><animate attributeName="y" from="0" to="320" dur="5s" repeatCount="indefinite" />public static void main</text>
+    <text x="80" y="40"><animate attributeName="y" from="0" to="320" dur="6s" repeatCount="indefinite" />SpringBootApplication</text>
+    <text x="140" y="70"><animate attributeName="y" from="0" to="320" dur="7s" repeatCount="indefinite" />@Service</text>
+    <text x="40" y="100"><animate attributeName="y" from="0" to="320" dur="4s" repeatCount="indefinite" />Microservices</text>
+    <text x="100" y="130"><animate attributeName="y" from="0" to="320" dur="8s" repeatCount="indefinite" />Gateway</text>
+  </g>
+</svg>
+---
+
+📫 Connect
+
+LinkedIn: https://linkedin.com/in/JoelPradeepAB 
+
+Email: *****@example.com
+
+GitHub: https://github.com/JoelPradeepAB 
+
+
+
+---
+
+> Production‑grade backend engineering portfolio demonstrating scalable distributed system design and cloud‑ready architecture.
