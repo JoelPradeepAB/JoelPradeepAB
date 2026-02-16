@@ -89,9 +89,3 @@ https://github.com/JoelPradeepAB/employee-microservices
 </p>
 
 ---
-
-## 🐍 Contribution Snake (Enable GitHub Action)
-
-After pushing README, create:
-
-.github/workflows/snake.yml
