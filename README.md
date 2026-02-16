@@ -1,52 +1,141 @@
-# Hi there, I'm [Joel Pradeep A B]! 👋
+<h1 align="center">Hi 👋, I'm JOEL PRADEEP A B</h1>
+<h3 align="center">Java Full Stack Developer | Spring Boot | React | Microservices</h3>
 
-![Profile --> under development...](your_banner_image_url_here)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Backend+Developer;Spring+Boot+REST+APIs;Full+Stack+Web+Developer;Microservices+Architecture&center=true&width=500&height=50">
+</p>
 
-![Banner uploading soon...](your_banner_image_url_here)
+---
 
-## About Me 🚀
+## 🧠 About Me
+- 💻 Passionate about backend engineering & scalable systems
+- 🔧 Strong in Java, Spring Boot, SQL, REST APIs
+- 🌐 Building full stack applications with React
+- 📦 Interested in system design & microservices
+- 📚 Currently improving Data Structures & Problem Solving
 
-I'm a passionate **[Software Engineer]** with experience in **[Java Full Stack Web Development]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+---
 
-- 🌱 Currently learning: **[Java,SpringBoot,Microservices,DevOps,AWS,Angular]**
-- 🔭 Working on: **[5 Java-Spring Boot Based Projects]**
-- 🌍 Languages: **[Java, C, Python]**
-- 📫 How to reach me: **[linkedin.com/joelpradeepab]**
-- 📫 How to reach me: **[github.com/joelpradeepab]**
-- ⚡ Fun fact: **["I still watch cartoons, from when I was a kid".]**
+## 🛠 Tech Stack
 
-## My Skills 🧠
+### Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![REST](https://img.shields.io/badge/REST-API-green?style=for-the-badge)
 
-![Java](https://img.shields.io/badge/-Java-61DAFB?style=flat-square&logo=java&logoColor=black)
-![SpringBoot](https://img.shields.io/badge/-SpringBoot-339933?style=flat-square&logo=springboot&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![DevOps](https://img.shields.io/badge/-DevOps-E34F26?style=flat-square&logo=devops5&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-1572B6?style=flat-square&logo=aws&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-F7DF1E?style=flat-square&logo=angular&logoColor=black)
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
 
+### Database & Tools
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)
 
+---
 
+## 📊 Skill Progress
 
-## Featured Projects 💻 comming soon...
+Java
+██████████████████░░ 90%
 
-### [Project 1 under development...](project_1_link)
+Spring Boot
+████████████████░░░░ 80%
 
-![Project 1 Screenshot](project_1_screenshot_url)
+SQL & Database Design
+███████████████░░░░░ 75%
 
-**[Project 1 under development...]** is a **[project brief]** built with **[Java, Sprint Boot, AWS, Angular, AI]**. This project demonstrates my ability to **[project skill analysis]**. You can check out the repository [here](project_1_repository_link).
+React
+█████████████░░░░░░░ 70%
 
-### [Project 2 under development...](project_2_link)
+Microservices
+███████████░░░░░░░░░ 60%
 
-![Project 2 Screenshot](project_2_screenshot_url)
+---
 
-**[Project 2 under development...]** is a **[project brief]** built with **[Java, Spring Boot, Microservices]**. This project showcases my skills in **[project skill analysis]**. You can check out the repository [here](project_2_repository_link).
+## 🏗 Featured Projects
 
-## Get in Touch 📬
+### 🧩 TaskHub – Full Stack Task Manager
+> Spring Boot + React + MySQL + Authentication
 
-- **[Personal Website / Blog]**(work in progress...)
-- **[LinkedIn]**(comming soon...)
-- **[Twitter]**(comming soon...)
+- Login system & protected APIs
+- CRUD task management
+- Database persistence
+- Frontend + Backend integration
 
+🔗 Repo: https://github.com/JoelPradeepAB/taskhub
 
+---
+
+### 📚 Library Management System
+> Java + JDBC + MySQL
+
+- Book issue/return workflow
+- Transaction handling
+- Normalized relational schema
+
+🔗 Repo: https://github.com/JoelPradeepAB/library-system
+
+---
+
+### 🏦 Banking REST API
+> Spring Boot
+
+- Deposit & withdraw endpoints
+- Transaction history
+- Atomic balance updates
+
+🔗 Repo: https://github.com/JoelPradeepAB/banking-api
+
+---
+
+### 🏨 Hotel Booking System
+> Full Stack Application
+
+- Search hotels by city
+- Booking workflow
+- Backend integration with frontend
+
+🔗 Repo: https://github.com/JoelPradeepAB/hotel-booking
+
+---
+
+### 🏢 Employee Management Microservices
+> Spring Cloud Architecture
+
+- API Gateway routing
+- Service communication
+- Distributed backend system
+
+🔗 Repo: https://github.com/JoelPradeepAB/employee-microservices
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JoelPradeepAB&show_icons=true&theme=radical" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoelPradeepAB&layout=compact&theme=radical" height="150">
+</p>
+
+---
+
+## 🔥 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoelPradeepAB&theme=react-dark">
+</p>
+
+---
+
+## 📫 Contact Me
+
+- LinkedIn: https://linkedin.com/in/JoelPradeepAB
+- Email: *****@gmail.com
+
+---
+
+<p align="center">
+⭐ If you like my work, consider giving a star to the repositories!
+</p>
