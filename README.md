@@ -1,12 +1,12 @@
 🚀 Java Backend & Cloud Engineering Portfolio
 
-<div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=2800&color=00FFA6&center=true&vCenter=true&width=900&lines=Java+Backend+Engineer;Spring+Boot+Microservices+%7C+Cloud+Ready;Scalable+APIs+%7C+Fault+Tolerant+Systems" /><img src="https://github-profile-trophy.vercel.app/?username=JoelPradeepAB&theme=matrix&no-frame=true&row=1&column=7" /><img src="https://komarev.com/ghpvc/?username=JoelPradeepAB&label=Profile+Views&color=00ffaa&style=for-the-badge" /></div>
+<div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=2800&color=00FFA6&center=true&vCenter=true&width=900&lines=Java+Backend+Engineer;Spring+Boot+Microservices+%7C+Cloud+Ready;Scalable+APIs+%7C+Fault+Tolerant+Systems" /><img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&row=1&column=7" /><img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" /></div>
 ---
 
 🧬 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
   <img alt="snake" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </picture>
@@ -15,15 +15,15 @@
 📊 Engineering Metrics
 
 <div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=JoelPradeepAB&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoelPradeepAB&layout=compact&theme=tokyonight&hide_border=true" />
-</div><img src="https://github-readme-activity-graph.vercel.app/graph?username=JoelPradeepAB&theme=react-dark&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+</div><img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true" />
 ---
 
 🧩 Technology Stack (3D Icons)
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,postgres,redis,docker,kubernetes,linux,git,github,maven,gradle,aws,nginx,postman&perline=8" />
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,postgres,redis,docker,kubernetes,linux,git,github,maven,gradle,aws,nginx,postman&perline=7" />
 </div>
 ---
 
@@ -153,14 +153,14 @@ Left Vertical Tech Beam
 
 📫 Connect
 
-LinkedIn: https://linkedin.com/in/JoelPradeepAB 
+LinkedIn: https://linkedin.com/in/YOUR_LINK
 
-Email: *****@example.com
+Email: yourmail@example.com
 
-GitHub: https://github.com/JoelPradeepAB 
+GitHub: https://github.com/YOUR_USERNAME
 
 
 
 ---
 
-> Production‑grade backend engineering portfolio demonstrating scalable distributed system design and cloud‑ready architecture.
+> Production‑grade backend engineering portfolio demonstrating scalable distributed system design and cloud‑ready architecture. Let's connect!
