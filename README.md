@@ -36,7 +36,7 @@
 
 
 
-##🏗️ Core Backend Projects (under development...)
+##🏗️ Core Backend Projects (under development...will be replacedbyfullstackprojects soon!)
 
 
 🌐 Cloud‑Ready Food Ordering Platform (Microservices)
@@ -121,7 +121,7 @@ Event‑Driven Notifications
 
 ---
 
-⚙️ Engineering Principles
+⚙️ Engineering Principles 
 
 Clean Architecture
 Layered Design
