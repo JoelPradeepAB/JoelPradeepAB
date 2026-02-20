@@ -36,7 +36,8 @@
 
 
 
-##🏗️ Core Backend Projects (under development...will be replacedbyfullstackprojects soon!)
+##🏗️ Core Backend Projects 
+(under development...will be replaced by full stack projects soon!)
 
 
 🌐 Cloud‑Ready Food Ordering Platform (Microservices)
