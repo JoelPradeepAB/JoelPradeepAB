@@ -53,4 +53,14 @@ I'm new to this world of software engineering, but I'm actively committed to dai
 
 ---
 
+📫 Connect
 
+LinkedIn : https://www.linkedin.com/in/joelpradeepab
+ 
+X : https://x.com/joelpradeepab
+
+---
+
+Let's connect 🤝🏻
+
+---
