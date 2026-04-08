@@ -26,14 +26,6 @@ I'm an enthusiastic, junior full stack engineer, who thrives on tackling complex
 
 I'm new to this world of software engineering, but I'm actively committed to daily growth and consistent learning. I've been learning "Full Stack Web Development With Java And DevOps" and I'm excited to build scalable projects that solve real-world problems. 
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/<JoelPradeepAB>/<JoelPradeepAB>/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/<JoelPradeepAB>/<JoelPradeepAB>/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/<JoelPradeepAB>/<JoelPradeepAB>/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
-
 ---
 
 ### 🌱 Current Focus
@@ -58,9 +50,5 @@ I'm new to this world of software engineering, but I'm actively committed to dai
 LinkedIn : https://www.linkedin.com/in/joelpradeepab
  
 X : https://x.com/joelpradeepab
-
----
-
-Let's connect 🤝🏻
 
 ---
