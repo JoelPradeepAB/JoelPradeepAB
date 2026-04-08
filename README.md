@@ -1,6 +1,6 @@
 # JOEL PRADEEP A B 👋
 
-### 🚀 Passionate Developer | Problem Solver | Lifelong Learner
+### 🚀 Passionate Developer | Problem Solver | Lifelong Learner 🧑🏻‍💻
 
 ---
 
