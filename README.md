@@ -8,7 +8,7 @@
 
 ---
 
-I'm an enthusiastic, junior full stack engineer, who thrives on tackling complex challenges and continuously expanding my technical horizons. I believe that resilience and a growth mindset are the most powerful tools in engineering. Whether I'm debugging a persistent issue, optimizing performance, or learning a completely new paradigm, I approach every challenge as an opportunity to level up. 
+I'm an enthusiastic, junior full stack engineer, who thrives on tackling complex challenges and continuously expanding my technical horizons. I believe that resilience and a growth mindset are the most powerful tools in engineering. Whether I'm debugging a persistent issue, optimizing performance or learning a completely new paradigm, I approach every challenge as an opportunity to level up. 
 
 ---
 
@@ -45,7 +45,7 @@ I'm new to this world of software engineering, but I'm actively committed to dai
 
 ---
 
-📫 Connect
+📫 Let's Connect
 
 LinkedIn : https://www.linkedin.com/in/joelpradeepab
  
