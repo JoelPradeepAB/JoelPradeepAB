@@ -3,7 +3,9 @@
 ### 🚀 Passionate Developer | Problem Solver | Lifelong Learner
 
 ---
+
 <div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=2800&color=00FFA6&center=true&vCenter=true&width=900&lines=Java+Backend+Engineer;Spring+Boot+Microservices+%7C+Cloud+Ready;Scalable+APIs+%7C+Fault+Tolerant+Systems" /></div>
+
 ---
 
 I am an enthusiastic software developer who thrives on tackling complex challenges and continuously expanding my technical horizons. I believe that resilience and a growth mindset are the most powerful tools in engineering. Whether I'm debugging a persistent issue, optimizing performance, or learning a completely new paradigm, I approach every challenge as an opportunity to level up. 
@@ -42,6 +44,7 @@ I am actively committed to daily growth and consistent learning. Here is a visua
 - 💡 Embracing new challenges and building resilience through code.
 
 ---
+
 🧬 Contribution Snake
 
 <picture>
@@ -49,4 +52,5 @@ I am actively committed to daily growth and consistent learning. Here is a visua
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
   <img alt="snake" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </picture>
+
 ---
