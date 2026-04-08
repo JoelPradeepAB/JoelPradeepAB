@@ -16,11 +16,9 @@ I am an enthusiastic software developer who thrives on tackling complex challeng
 
 *Here is a snapshot of the technologies I work with. I'm always eager to add new tools to my belt!*
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,ts,react,nodejs,html,css,git,docker,linux&theme=dark" alt="My Skills" />
-  </a>
-</p>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,postgres,redis,docker,kubernetes,linux,git,github,maven,gradle,aws,nginx,postman&perline=7" />
+</div>
 
 ---
 
@@ -30,9 +28,9 @@ I am actively committed to daily growth and consistent learning. Here is a visua
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/<YOUR_GITHUB_USERNAME>/<YOUR_GITHUB_USERNAME>/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/<YOUR_GITHUB_USERNAME>/<YOUR_GITHUB_USERNAME>/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/<YOUR_GITHUB_USERNAME>/<YOUR_GITHUB_USERNAME>/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/<JoelPradeepAB>/<JoelPradeepAB>/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/<JoelPradeepAB>/<JoelPradeepAB>/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/<JoelPradeepAB>/<JoelPradeepAB>/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
 
@@ -54,3 +52,5 @@ I am actively committed to daily growth and consistent learning. Here is a visua
 </picture>
 
 ---
+
+
